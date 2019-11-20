@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+    font-size: 20px;
+}
+
+.main {
+    background-color: rgb(157, 250, 157);
+    width: 800px;
+    margin: auto;
+    border: 40px solid;
+    padding: 10px 40px;
+}
+
+.y {
+    text-align: center;
+}
+
+button {
+    padding: 4px 40px;
+    font-size: 20px;
+    background-color: rgb(222, 252, 222);
+}
